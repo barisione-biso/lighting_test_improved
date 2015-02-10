@@ -1,6 +1,8 @@
-echo "# lighting_test_improved" >> README.md
+#lighting_test_improved
  
- This project implements a lighting / shadow test using MelonJs.
+ This project implements an elegant solution for lighting / shadow as it was asked here:
+ http://gamedev.stackexchange.com/questions/85767/how-do-i-procedurally-create-a-directional-light-cone-with-an-html-canvas
+ and using the following example: http://jsfiddle.net/gamealchemist/pgb3bhxj/
  
  The core is the LightningEntity which extends from me.Entity and implements the lightning effect with a radial gradient.
  
