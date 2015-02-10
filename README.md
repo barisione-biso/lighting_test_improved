@@ -4,7 +4,7 @@
  http://gamedev.stackexchange.com/questions/85767/how-do-i-procedurally-create-a-directional-light-cone-with-an-html-canvas
  and using the following example: http://jsfiddle.net/gamealchemist/pgb3bhxj/
  
- The core is the LightningEntity which extends from me.Entity and implements the lightning effect with a radial gradient.
+ The core is the LightningEntity which extends from me.Entity and implements the lightning effect with a radial gradient in the draw method.
  
 #Develop by
 
